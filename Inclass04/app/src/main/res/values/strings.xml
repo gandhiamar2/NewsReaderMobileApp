@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Inclass04</string>
+    <string name="sourcenews">Select News source:</string>
+    
+    <string-array name="newslist">
+        <item>Select</item>
+        <item>BBC</item>
+        <item>CCN</item>
+        <item>Buzzfeed</item>
+        <item>ESPN</item>
+        <item>Sky News</item>
+    </string-array>
+
+    <string-array name="newslist1">
+        <item>Select</item>
+        <item>bbc-news</item>
+        <item>cnn-news</item>
+        <item>buzzfeed-news</item>
+        <item>espn-news</item>
+        <item>Sky News</item>
+    </string-array>
+</resources>
